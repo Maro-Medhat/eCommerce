@@ -1,0 +1,42 @@
+nav {
+    background-color: #007cc6;
+    padding: 10px 20px; 
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block; 
+    margin-right: 20px; 
+}
+
+nav ul li a {
+    text-decoration: none; 
+    color: white;
+    font-size: 18px;
+    font-weight: bold; 
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center; 
+    transition: background-color 0.3s;
+}
+
+nav ul li a i {
+    margin-left: 8px; 
+    font-size: 18px; 
+}
+
+a {
+    display: flex;
+    align-items: center; 
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    background-color: #005b8c;
+}
