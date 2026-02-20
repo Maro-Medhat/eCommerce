@@ -1,2 +1,2 @@
-<h2>🎬 Live Demo</h2>
-<video src="Live Demo.mp4" controls width="600"></video>
+## 🎬 Live Demo
+[▶️ Watch the Live Demo](./Live%20Demo.mp4)
